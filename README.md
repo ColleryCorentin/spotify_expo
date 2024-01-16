@@ -1,7 +1,5 @@
 <img src="assets/figlet.png" width="auto" height="200">
 
-<h1 align="center"> MY_SPOTIFY</h1>
-
 _By Corentin Collery_
 
 <p>Ce projet utilise React Native pour créer une application permettant d'explorer et d'interagir avec Spotify. En outre, il intègre l'API de Spotify ainsi que celle de Ticketmaster pour trouver des concerts à proximité de la localisation de l'utilisateur.</p>
